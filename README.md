@@ -1,0 +1,1 @@
+This repository contains a To Do List made using HTML, CSS and JS.
